@@ -4,7 +4,7 @@
 Here is [the latest version](https://palad1.github.io/Yannicks-s-game/docs/v1) (requires HTML5)
 The objective of the game? Get Sonic to cover as much ground as possible within 60 seconds. You can't run on steep hills, and grab those 100 rings, for S U P E R speed!
 
-### Controls
+### Controls
 
 * *W* : Walk
 * *R* : Run
