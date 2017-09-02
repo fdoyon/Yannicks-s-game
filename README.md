@@ -16,7 +16,7 @@ The objective of the game? Get Sonic to cover as much ground as possible within 
 ## Requirements
 If you want to hack-away at this game and modify it, you will need the following: 
 
-* [Love2d](https://love2d.org)
+* [LÖVE](https://love2d.org) aka Love2d
 * A text editor (we used [Zerobrane Studio](https://studio.zerobrane.com))
 * A bit of patience and lots of passion
 
@@ -38,7 +38,7 @@ _More to come_ Now that the holidays are over, we will work on this project remo
 
 ## Methodology
 
-We started with an hour of so of lua example, what's a number, what's a string, how do I add stuff, print, create variables, test conditions, loop, and moved to lua very quickly.
+We started with an hour of so of LUA examples in the console: what's a number, what's a string, how do I add stuff, print, create variables, test conditions, loop... and moved to LÖVE very quickly.
 
 I expressly glossed over anything that was not required to get the game running. Yest most things are globals, yes there are no classes and ther are no naming conventions, but all that was done to keep things familiar for a 11 year old. I wouldn't subject him to state machines or factories just yet.
 
