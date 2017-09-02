@@ -1,6 +1,6 @@
 ## Welcome to Yannick's Game!
 
-My nephew wanted to learn programming and loves videogames, so I, a dutyful uncle, set forth to teach him the basics of programming with a fun twist.
+My nephew wanted to learn programming and loves videogames, so I, a dutiful uncle, set forth to teach him the basics of programming with a fun twist.
 
 ### Want to play the game?
 Here is [the latest version](https://palad1.github.io/Yannicks-s-game/docs/v1) (requires HTML5)
