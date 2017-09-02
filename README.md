@@ -34,6 +34,8 @@ Each day we would spend a couple of hours in front of the computer and learn Lua
 * [Lesson 7: time flies like an arrow](/7-timer) - game-over condition
 * [Lesson 8: bling](/8-rings) - add rings, superspeed mode, poor man's gradient
 
+_More to come_ Now that the holidays are over, we will work on this project remotely, our game designer in chief has a ton of features that he wants to add! On the writeup front, I will try to add a writeup for each session.
+
 ## Methodology
 
 We started with an hour of so of lua example, what's a number, what's a string, how do I add stuff, print, create variables, test conditions, loop, and moved to lua very quickly.
@@ -51,5 +53,3 @@ We really had lots of fun doing this, the math was hard for both of us and what 
 * [Spriters Resource](https://www.spriters-resource.com) for the lovely spritesheets
 * [SpaceRip](http://www.spacerip.com) for the Jupiter Background
 * [Frontier Studio](http://elitedangerous.com) for the awesome unused wallpapers
-
-
