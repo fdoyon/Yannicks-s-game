@@ -52,7 +52,7 @@ Our next project will be a Reactive Entity-Component rewrite of this game in rus
 * [Frontier Studio](http://elitedangerous.com) for the awesome unused wallpapers
 
 ## More from us?
-* You can check-out the mobile apps at [mynoise](http://mynoise.net) for something cool that I co-wrote (always riding someone else's thunder, eh?)
+* You can check-out the mobile apps at [mynoise](http://mynoise.net) for something cool that I co-wrote (always riding someone else's coat-tails, eh?)
 * Leave a note in the [issues](https://github.com/palad1/Yannicks-s-game/issues) if you need anything!
 
 ## Last words:
