@@ -40,7 +40,7 @@ _More to come_ Now that the holidays are over, we will work on this project remo
 
 We started with an hour of so of lua example, what's a number, what's a string, how do I add stuff, print, create variables, test conditions, loop, and moved to lua very quickly.
 
-I expressly glossed over anything that was not required to get the game running. Yest most things are globals, yes there are no classes and ther are no naming conventions, but all that was done to keep things familiar for a 11 year old.
+I expressly glossed over anything that was not required to get the game running. Yest most things are globals, yes there are no classes and ther are no naming conventions, but all that was done to keep things familiar for a 11 year old. I wouldn't subject him to state machines or factories just yet.
 
 Our next project will be a Reactive Entity-Component rewrite of this game in rust ;)
 
