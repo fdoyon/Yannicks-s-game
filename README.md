@@ -1,5 +1,7 @@
 ## Welcome to Yannick's Game!
 
+My nephew wanted to learn programming and loves videogames, so I, a dutyful uncle, set forth to teach him the basics of programming with a fun twist.
+
 ### Want to play the game?
 Here is [the latest version](https://palad1.github.io/Yannicks-s-game/docs/v1) (requires HTML5)
 The objective of the game? Get Sonic to cover as much ground as possible within 60 seconds. You can't run on steep hills, and grab those 100 rings, for S U P E R speed!
@@ -10,9 +12,6 @@ The objective of the game? Get Sonic to cover as much ground as possible within 
 * *R* : Run
 * *J* : Jump
 
-## For developers: 
-
-My nephew wanted to learn programming and loves videogames, so I, a dutyful uncle, set forth to teach him the basics of programming with a fun twist.
 
 ## Requirements
 If you want to hack-away at this game and modify it, you will need the following: 
