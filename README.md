@@ -44,12 +44,16 @@ I expressly glossed over anything that was not required to get the game running.
 
 Our next project will be a Reactive Entity-Component rewrite of this game in rust ;)
 
-## Last words:
-We really had lots of fun doing this, the math was hard for both of us and what I can't share here is the pile of drawings we used to work-out the math, animations and 'design' of the objects. 
-
 ## Special Thanks
 
 * [Math Is Fun](https://www.mathsisfun.com/sine-cosine-tangent.html) - great resource for some material that was not covered in my nephew's class.
 * [Spriters Resource](https://www.spriters-resource.com) for the lovely spritesheets
 * [SpaceRip](http://www.spacerip.com) for the Jupiter Background
 * [Frontier Studio](http://elitedangerous.com) for the awesome unused wallpapers
+
+## More from us?
+* You can check-out the mobile apps at [mynoise](http://mynoise.net) for something cool that I co-wrote (always riding someone else's thunder, eh?)
+* Leave a note in the [issues](https://github.com/palad1/Yannicks-s-game/issues) if you need anything!
+
+## Last words:
+We really had lots of fun doing this, the math was hard for both of us and what I can't share here is the pile of drawings we used to work-out the math, animations and 'design' of the objects. 
