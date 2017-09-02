@@ -30,7 +30,7 @@ Each day we would spend a couple of hours in front of the computer and learn Lua
 * [Lesson 3: over the hills...](/3-level) - random generation of a 'level'
 * [Lesson 4: ... and far away](/4-scrolling) - add scrolling, and generate an infinite level
 * [Lesson 5: gotta go fast!](/5-moving) - walk/run/idle modes
-* [Lesson 6: shadow of the beast](/6-background) - parralax effect
+* [Lesson 6: shadow of the beast](/6-background) - parallax effect
 * [Lesson 7: time flies like an arrow](/7-timer) - game-over condition
 * [Lesson 8: bling](/8-rings) - add rings, superspeed mode, poor man's gradient
 
