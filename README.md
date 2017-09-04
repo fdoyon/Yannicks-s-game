@@ -24,7 +24,7 @@ If you want to hack-away at this game and modify it, you will need the following
 
 Each day we would spend a couple of hours in front of the computer and learn Lua together, as well as the Love2d api. Each day we built on what we had the previous day. I did most of the math (wrong) and the coding was done 4-handed. We stayed clear of the LUA warts (OOP) and tried to keep design patterns at bay (but we will have to cleanup after session 8, that's a given).
 
-* [Lesson 0: hello love](/0-start) - intro to the language
+* [Lesson 0: hello love](0-start) - intro to the language
 * [Lesson 1: what is a sprite?](/1-sprite) - load an image and display it (please don't sue us)
 * [Lesson 2: how do I sprite my bob?](/2-animations) - create animations off a spritesheet
 * [Lesson 3: over the hills...](/3-level) - random generation of a 'level'
