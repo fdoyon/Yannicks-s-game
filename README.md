@@ -3,7 +3,7 @@
 My nephew wanted to learn programming and loves videogames, so I, a dutiful uncle, set forth to teach him the basics of programming with a fun twist.
 
 ### Want to play the game?
-Here is [the latest version](https://palad1.github.io/Yannicks-s-game/docs/v1) (requires HTML5)
+Here is [the latest version](https://fdoyon.github.io/Yannicks-s-game/docs/v1) (requires HTML5)
 The objective of the game? Get Sonic to cover as much ground as possible within 60 seconds. You can't run on steep hills, and grab those 100 rings for _SUPER_ speed!
 
 ### Controls
