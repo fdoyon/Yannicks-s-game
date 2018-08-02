@@ -24,15 +24,15 @@ If you want to hack-away at this game and modify it, you will need the following
 
 Each day we would spend a couple of hours in front of the computer and learn Lua together, as well as the Love2d api. Each day we built on what we had the previous day. I did most of the math (wrong) and the coding was done 4-handed. We stayed clear of the LUA warts (OOP) and tried to keep design patterns at bay (but we will have to cleanup after session 8, that's a given).
 
-* [Lesson 0: hello love](https://github.com/palad1/Yannicks-s-game/tree/master/0-start) - intro to the language
-* [Lesson 1: what is a sprite?](https://github.com/palad1/Yannicks-s-game/tree/master/1-sprite) - load an image and display it (please don't sue us)
-* [Lesson 2: how do I sprite my bob?](https://github.com/palad1/Yannicks-s-game/tree/master/2-animations) - create animations off a spritesheet
-* [Lesson 3: over the hills...](https://github.com/palad1/Yannicks-s-game/tree/master/3-level) - random generation of a 'level'
-* [Lesson 4: ... and far away](https://github.com/palad1/Yannicks-s-game/tree/master/4-scrolling) - add scrolling, and generate an infinite level
-* [Lesson 5: gotta go fast!](https://github.com/palad1/Yannicks-s-game/tree/master/5-moving) - walk/run/idle modes
-* [Lesson 6: shadow of the beast](https://github.com/palad1/Yannicks-s-game/tree/master/6-background) - parallax effect
-* [Lesson 7: time flies like an arrow](https://github.com/palad1/Yannicks-s-game/tree/master/7-timer) - game-over condition
-* [Lesson 8: bling](https://github.com/palad1/Yannicks-s-game/tree/master/8-rings) - add rings, superspeed mode, poor man's gradient
+* [Lesson 0: hello love](https://github.com/fdoyon/Yannicks-s-game/tree/master/0-start) - intro to the language
+* [Lesson 1: what is a sprite?](https://github.com/fdoyon/Yannicks-s-game/tree/master/1-sprite) - load an image and display it (please don't sue us)
+* [Lesson 2: how do I sprite my bob?](https://github.com/fdoyon/Yannicks-s-game/tree/master/2-animations) - create animations off a spritesheet
+* [Lesson 3: over the hills...](https://github.com/fdoyon/Yannicks-s-game/tree/master/3-level) - random generation of a 'level'
+* [Lesson 4: ... and far away](https://github.com/fdoyon/Yannicks-s-game/tree/master/4-scrolling) - add scrolling, and generate an infinite level
+* [Lesson 5: gotta go fast!](https://github.com/fdoyon/Yannicks-s-game/tree/master/5-moving) - walk/run/idle modes
+* [Lesson 6: shadow of the beast](https://github.com/fdoyon/Yannicks-s-game/tree/master/6-background) - parallax effect
+* [Lesson 7: time flies like an arrow](https://github.com/fdoyon/Yannicks-s-game/tree/master/7-timer) - game-over condition
+* [Lesson 8: bling](https://github.com/fdoyon/Yannicks-s-game/tree/master/8-rings) - add rings, superspeed mode, poor man's gradient
 
 _More to come_ Now that the holidays are over, we will work on this project remotely, our game designer in chief has a ton of features that he wants to add! On the writeup front, I will try to add a writeup for each session.
 
@@ -53,7 +53,7 @@ Our next project will be a Reactive Entity-Component rewrite of this game in rus
 
 ## More from us?
 * You can check-out the mobile apps at [mynoise](http://mynoise.net) for something cool that I co-wrote (always riding someone else's coat-tails, eh?)
-* Leave a note in the [issues](https://github.com/palad1/Yannicks-s-game/issues) if you need anything!
+* Leave a note in the [issues](https://github.com/fdoyon/Yannicks-s-game/issues) if you need anything!
 
 ## Last words:
 We really had lots of fun doing this, the math was hard for both of us and what I can't share here is the pile of drawings we used to work-out the math, animations and 'design' of the objects. 
